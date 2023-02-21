@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4f9d34b.css",
+    "main.js": "/static/js/main.3253070a.js",
+    "static/js/787.c6addca6.chunk.js": "/static/js/787.c6addca6.chunk.js",
+    "static/media/sec3.png": "/static/media/sec3.76ff9b89a1cf174630f4.png",
+    "static/media/main_image.png": "/static/media/main_image.bc1977927803be541714.png",
+    "static/media/naju.png": "/static/media/naju.0b4b063f363ba25bccb6.png",
+    "static/media/gwangju.png": "/static/media/gwangju.ce9ea815b4f99c783857.png",
+    "static/media/suncheon.png": "/static/media/suncheon.bba1a734e182331accd4.png",
+    "static/media/damyang.png": "/static/media/damyang.ee24b4c2226ff884ea00.png",
+    "index.html": "/index.html",
+    "main.a4f9d34b.css.map": "/static/css/main.a4f9d34b.css.map",
+    "main.3253070a.js.map": "/static/js/main.3253070a.js.map",
+    "787.c6addca6.chunk.js.map": "/static/js/787.c6addca6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4f9d34b.css",
+    "static/js/main.3253070a.js"
+  ]
+}
