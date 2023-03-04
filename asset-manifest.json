@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d35f4db.css",
-    "main.js": "/static/js/main.3253070a.js",
+    "main.css": "/static/css/main.be7ee4b2.css",
+    "main.js": "/static/js/main.f6da32d7.js",
     "static/js/787.c6addca6.chunk.js": "/static/js/787.c6addca6.chunk.js",
+    "static/media/main_image.png": "/static/media/main_image.4c5c239f70d02817d3fe.png",
     "static/media/sec3.png": "/static/media/sec3.ba833f745c215d579c9d.png",
-    "static/media/main_image.png": "/static/media/main_image.64aeb558543f8cf50c89.png",
     "static/media/naju.png": "/static/media/naju.648d4433985834e6ac3b.png",
     "static/media/gwangju.png": "/static/media/gwangju.4f4054ed22c6a1568e0b.png",
     "static/media/damyang.png": "/static/media/damyang.aa3049bceb1492b414ac.png",
     "static/media/suncheon.png": "/static/media/suncheon.3e6693712fe0e8405e31.png",
     "index.html": "/index.html",
-    "main.2d35f4db.css.map": "/static/css/main.2d35f4db.css.map",
-    "main.3253070a.js.map": "/static/js/main.3253070a.js.map",
+    "main.be7ee4b2.css.map": "/static/css/main.be7ee4b2.css.map",
+    "main.f6da32d7.js.map": "/static/js/main.f6da32d7.js.map",
     "787.c6addca6.chunk.js.map": "/static/js/787.c6addca6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d35f4db.css",
-    "static/js/main.3253070a.js"
+    "static/css/main.be7ee4b2.css",
+    "static/js/main.f6da32d7.js"
   ]
 }
